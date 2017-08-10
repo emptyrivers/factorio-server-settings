@@ -1,0 +1,12 @@
+{
+  "mods": [
+    {
+      "name": "base",
+      "enabled": true
+    },
+    {
+      "name": "rso-mod",
+      "enabled": true
+    }
+  ]
+}
